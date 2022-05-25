@@ -1,4 +1,4 @@
-# The Queen’s Computing Society
+## The Queen’s Computing Society
 
 👋 Hi! We’re the Queen’s Computing Society (Queen’s University Belfast, not the Canadian one). We help connect students together by running events, workshops and socials! 
 
